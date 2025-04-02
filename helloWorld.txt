@@ -1,2 +1,2 @@
-Hello world
-Ahoj svete
+Hello world.
+Ahoj svete!
