@@ -1,2 +1,4 @@
-Hello world
-Ahoj svete
+Hello world.
+Ahoj svete!
+
+uprava pro potrebu konfliktu
